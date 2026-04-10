@@ -26,5 +26,3 @@ class Transaction {
 
 }
 
-
-//test
